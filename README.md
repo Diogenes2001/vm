@@ -1,7 +1,7 @@
 # vm
 CS246E final project (executable only)
 
-A text editor for Linux based on the vm editor. It supports the following:
+A text editor for Linux written in C++ based on the vm editor. It supports the following:
 + page navigation using commands
 + command, insert, and replace mode
 + saving and quitting
