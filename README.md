@@ -2,10 +2,21 @@
 CS246E final project (executable only)
 
 A text editor for Linux based on the vm editor. It supports the following:
++ page navigation using commands
++ command, insert, and replace mode
++ saving and quitting
++ unlimited number of undoes
++ basic searching (no regexes)
++ repetition of previous commands
++ multipliers in front of commands
++ line wrapping
 + syntax highlighting
 + macros
 + custom themes
-+ 55 commands: a b cc c[any motion] dd d[any motion] f h i j k l n o p q r s u w x yy y[any motion] A F I J N O P R S X ^ $ 0 . ; / ? % @ ^b ^d ^f ^g ^u :w :q :wq :q! :r :0 :$ :line-number
+
+The full list of supported commands is: 
+
+a b cc c[any motion] dd d[any motion] f h i j k l n o p q r s u w x yy y[any motion] A F I J N O P R S X ^ $ 0 . ; / ? % @ ^b ^d ^f ^g ^u :w :q :wq :q! :r :0 :$ :line-number
 
 To use custom themes, run the executable with a .color file as a command line argument (does not work on PuTTY).
 
