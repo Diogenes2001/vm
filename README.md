@@ -33,3 +33,8 @@ To create a .color file, enter 7 lines of space-separated RGB values in the foll
 
 
 Due to University of Waterloo policies, I am prohibited from publishing the source code for this project. However, I have included the executable and some screenshots:
+
+
+![alt text](./vm1.png)
+
+![alt text](./vm2.png)
