@@ -1,5 +1,5 @@
 # vm
-CS246E final project (executable only)
+CS246E final project
 
 A text editor for Linux written in C++ based on the vm editor. It supports the following:
 + page navigation using commands
@@ -30,10 +30,6 @@ To create a .color file, enter 7 lines of space-separated RGB values in the foll
 5. PREPROCESSOR DIRECTIVES
 6. IDENTIFIERS
 7. BACKGROUND
-
-
-Due to University of Waterloo policies, I am prohibited from publishing the source code for this project. However, I have included the executable and some screenshots:
-
 
 ![vm default theme](./vm1.png)
 
