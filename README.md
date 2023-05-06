@@ -11,6 +11,8 @@ make
 vm supports the following features:
 + page navigation using commands
 + command, insert, and replace mode
++ deletion of characters between movement commands
++ copy and paste commands
 + saving and quitting
 + unlimited number of undoes
 + basic searching (no regexes)
